@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "swapp-test-dev-20190923113337-authRole",
+            "UnauthRoleArn": "arn:aws:iam::464672903708:role/swapp-test-dev-20190923113337-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::464672903708:role/swapp-test-dev-20190923113337-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "swapp-test-dev-20190923113337-deployment",
+            "UnauthRoleName": "swapp-test-dev-20190923113337-unauthRole",
+            "StackName": "swapp-test-dev-20190923113337",
+            "StackId": "arn:aws:cloudformation:us-east-1:464672903708:stack/swapp-test-dev-20190923113337/84090af0-de17-11e9-b27b-0a1726208052"
+        }
+    }
+}
